@@ -1,0 +1,18 @@
+.page-name {
+    letter-spacing: 2.5px;
+    font-size: x-large;
+    color: #383D3B;
+}
+
+.Menu {
+    margin-top: 99px;
+    color: rgb(44, 38, 38);
+    font-size: large;
+    font-weight: 500;
+}
+
+.Menu ul li{
+    color: rgb(56, 56, 56) !important;
+    font-size: medium;
+    font-weight: 400;
+}
